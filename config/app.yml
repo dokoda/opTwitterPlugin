@@ -1,0 +1,3 @@
+all:
+  twitter_action_size:     50
+  twitter_component_size:  20

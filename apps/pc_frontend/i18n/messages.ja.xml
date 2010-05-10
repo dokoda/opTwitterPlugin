@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+      <source>Friends newest tweet</source>
+      <target>マイフレンド最新ツイート</target>
+      </trans-unit>
+      <trans-unit id="2">
+      <source>Newest tweet of %s</source>
+      <target>%sさんの最新ツイート</target>
+      </trans-unit>
+      <trans-unit id="3">
+      <source>Newest tweet</source>
+      <target>最新ツイート</target>
+      </trans-unit>
+      <trans-unit id="4">
+      <source>Y/m/d H:i</source>
+      <target>Y年m月d日 H:i</target>
+      </trans-unit>
+      <trans-unit id="5">
+      <source>m/d</source>
+      <target>m月d日</target>
+      </trans-unit>
+      <trans-unit id="6">
+      <source>The member id is invalid</source>
+      <target>メンバーIDが無効です</target>
+      </trans-unit>
+      <trans-unit id="7">
+      <source>The tweet is none</source>
+      <target>ツイートがありません</target>
+      </trans-unit>
+      <trans-unit id="8">
+      <source>More info</source>
+      <target>もっと見る</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

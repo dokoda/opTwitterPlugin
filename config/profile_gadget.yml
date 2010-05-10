@@ -1,0 +1,6 @@
+twitterUser:
+  caption:
+    ja_JP: "自分の最新ツイート"
+  description:
+    ja_JP: "自分の最新のツイートの一覧を表示します。"
+  component: [twitter,twitterUser]

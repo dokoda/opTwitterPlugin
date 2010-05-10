@@ -1,0 +1,28 @@
+Navigation:
+  secure_global_navigation_twitter:
+    type: "secure_global"
+    uri: "twitter/all"
+    sort_order: 1
+    Translation:
+      ja_JP:
+        caption: "最新ツイート"
+      en:
+        caption: "Newest Tweet"
+  default_navigation_twitter:
+    type: "default"
+    uri: "twitter/config"
+    sort_order: 1
+    Translation:
+      en:
+        caption: "Twitter"
+      ja_JP:
+        caption: "ツイッター"
+  friend_navigation_twitter:
+    type: "friend"
+    uri: "twitter/friend"
+    sort_order: 100
+    Translation:
+      en:
+        caption: "Tweet"
+      ja_JP:
+        caption: "ツイート"

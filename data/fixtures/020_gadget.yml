@@ -1,0 +1,17 @@
+Gadget:
+  twitter_home_post:
+    type: "contents"
+    name: "twitterpost"
+    sort_order: 200
+  twitter_home_friend:
+    type: "contents"
+    name: "twitterFriend"
+    sort_order: 210
+  twitter_home_user:
+    type: "contents"
+    name: "twitterUser"
+    sort_order: 220
+  twitter_profile_user:
+    type: "profileContents"
+    name: "twitterUser"
+    sort_order: 200

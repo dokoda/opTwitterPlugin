@@ -1,0 +1,18 @@
+twitterFriend:
+  caption:
+    ja_JP: "フレンドの最新ツイート"
+  description:
+    ja_JP: "フレンドの最新のツイートの一覧を表示します。"
+  component: [twitter,twitterFriend]
+twitterUser:
+  caption:
+    ja_JP: "自分の最新ツイート"
+  description:
+    ja_JP: "自分の最新のツイートの一覧を表示します。"
+  component: [twitter,twitterUser]
+twitterPost:
+  caption:
+    ja_JP: "ツイートフォーム"
+  description:
+    ja_JP: "ツイートフォームを表示します。"
+  component: [twitter,twitterPost]

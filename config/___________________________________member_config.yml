@@ -1,0 +1,15 @@
+TwitterCfg:
+  _attributes:
+    caption:       "Twitter Configuration"
+    enable_pc:     true
+    enable_mobile: false
+  conkey:
+    Name:       "conkey"
+    Caption:    "Blog URL"
+    FormType:   "input"
+    ValueType:  "conkey"
+    IsRegist:   false
+    IsConfig:   true
+    IsUnique:   false
+    IsRequired: false
+    IsConfirm:  false

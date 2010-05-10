@@ -1,0 +1,18 @@
+options:
+  charset: utf8
+
+TwitterAdminCfg:
+  actAs: [Timestampable]
+  columns:
+    conkey: { type: string(255), notnull: true }
+    conssec: { type: string(255), notnull: true }
+
+TwitterCfg:
+  actAs: [Timestampable]
+  columns:
+    id: { type: integer(4), primary: true, autoincrement: true }
+    member_id: { type: integer(4), notnull: true}
+    oauth_token: { type: string(255), notnull: true }
+    oauth_token_secret: { type: string(255), notnull: true }
+  relations:
+    Member: { onDelete: cascade }
